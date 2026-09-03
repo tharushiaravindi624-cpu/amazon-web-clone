@@ -217,4 +217,11 @@ footer {
     .projects {
         grid-template-columns: 1fr;
     }
+    h2 {
+    font-size: 30px;
+}
+
+li {
+    margin: 10px;
+}
 }
